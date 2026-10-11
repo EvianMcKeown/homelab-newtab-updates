@@ -1,0 +1,18 @@
+{
+  "addons": {
+    "homelab-newtab@ejmlabs.co.za": {
+      "updates": [
+        {
+          "version": "1.0.1",
+          "update_link": "https://evianmckeown.github.io/homelab-newtab-updates/xpi/homelab-newtab-1.0.1.xpi",
+          "update_hash": "sha256:36794ba8beeb732e947d28ec1ef897b9e2a7454096d83d75c48d47c815442511",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
