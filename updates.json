@@ -21,6 +21,16 @@
               "strict_min_version": "140.0"
             }
           }
+        },
+        {
+          "version": "1.0.3",
+          "update_link": "https://evianmckeown.github.io/homelab-newtab-updates/xpi/homelab-newtab-1.0.3.xpi",
+          "update_hash": "sha256:55a4d31ca2a0d85681b9c10cfe6c61d6e10fe25bd51e53efc1b51f4fb6f42f46",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
         }
       ]
     }
