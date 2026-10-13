@@ -3,16 +3,6 @@
     "homelab-newtab@ejmlabs.co.za": {
       "updates": [
         {
-          "version": "1.0.6",
-          "update_link": "https://evianmckeown.github.io/homelab-newtab-updates/xpi/homelab-newtab-1.0.6.xpi",
-          "update_hash": "sha256:ca1d5a5afbd5ae7884e60a70a1fb33dc167f9e47712746603754696eb6e4d4d4",
-          "applications": {
-            "gecko": {
-              "strict_min_version": "140.0"
-            }
-          }
-        },
-        {
           "version": "1.0.7",
           "update_link": "https://evianmckeown.github.io/homelab-newtab-updates/xpi/homelab-newtab-1.0.7.xpi",
           "update_hash": "sha256:9da7239cd0e26902ff93d1374ab2b31628c80eab148fbbac4ba07709b2e052ff",
@@ -26,6 +16,16 @@
           "version": "1.0.8",
           "update_link": "https://evianmckeown.github.io/homelab-newtab-updates/xpi/homelab-newtab-1.0.8.xpi",
           "update_hash": "sha256:579c8fd923ab67b4aa28b78ab0adc45b1a439992eac9f33b16e98a3974ab777e",
+          "applications": {
+            "gecko": {
+              "strict_min_version": "140.0"
+            }
+          }
+        },
+        {
+          "version": "1.0.9",
+          "update_link": "https://evianmckeown.github.io/homelab-newtab-updates/xpi/homelab-newtab-1.0.9.xpi",
+          "update_hash": "sha256:b2398898664331ee10d206520dbab85111ba8fab26e9d512fab38c7ee9b313f3",
           "applications": {
             "gecko": {
               "strict_min_version": "140.0"
